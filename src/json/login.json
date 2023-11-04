@@ -1,0 +1,21 @@
+[
+  {
+    "id": "adminuser",
+    "name": "Nihira",
+    "password": "admin",
+    "email": "nihiratechiees@gmail.com",
+    "phone": "8989898989",
+    "country": "usa",
+    "address": "",
+    "role": "admin",
+    "gender": "female"
+  },
+  {
+    "id": "Anilshah",
+    "name": "Anil",
+    "password": "123",
+    "phone": "741",
+    "address": "Amlori",
+    "gender": "male"
+  }
+]

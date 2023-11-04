@@ -1,5 +1,6 @@
-const test = require('./dbRouteData/test.json');
-const testNew = require('./dbRouteData/testNew.json');
+const login = require('./json/login.json');
+const allpatient = require('./json/allpatient.json');
+const cardiology = require('./json/cardiology.json');
 
 function getRoutes() {
   return {
@@ -12,8 +13,9 @@ function getRoutes() {
 
 function getRouteObjects() {
   return {
-    test,
-    testNew
+    login,
+    allpatient,
+    cardiology
   };
 }
 

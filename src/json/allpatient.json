@@ -1,0 +1,29 @@
+[
+  
+  {
+    "patientName": "ngf",
+    "phone": "1234567890",
+    "disease": "",
+    "doctor": "Anil",
+    "address": "",
+    "gender": "",
+    "payment": false,
+    "paymode": "cash",
+    "counter": 13,
+    "patientId": 1019,
+    "id": "RO_tlB-"
+  },
+  {
+    "patientName": "fdgf",
+    "phone": "1234567890",
+    "disease": "",
+    "doctor": "Anil",
+    "address": "",
+    "gender": "",
+    "payment": "Done",
+    "paymode": "online",
+    "counter": 14,
+    "patientId": 1020,
+    "id": "_IcRPlW"
+  }
+]
