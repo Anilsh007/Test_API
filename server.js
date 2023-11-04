@@ -1,9 +1,9 @@
 const jsonServer = require('json-server');
-const { getRoutes, getRouteObjects } = require('./db');
+const { getRoutes, getRouteObjects } = require('./src/db');
 
 const router = jsonServer.router(getRouteObjects());
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 1234;
+const port = process.env.PORT || 1000;
 const server = jsonServer.create();
 
 server.use(jsonServer.rewriter(getRoutes()));
