@@ -1,6 +1,7 @@
 const login = require('./json/login.json');
 const allpatient = require('./json/allpatient.json');
 const cardiology = require('./json/cardiology.json');
+const userDetails = require('./json/userDetails.json');
 
 function getRoutes() {
   return {
@@ -15,7 +16,8 @@ function getRouteObjects() {
   return {
     login,
     allpatient,
-    cardiology
+    cardiology,
+    userDetails
   };
 }
 
