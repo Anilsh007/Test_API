@@ -8,6 +8,7 @@
         "country": "usa",
         "address": "",
         "role": "admin",
-        "gender": "female"
+        "gender": "female",
+        "counter": 5000
     }
 ]
