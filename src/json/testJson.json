@@ -1,15 +1,50 @@
-[
-  
-  {
-    "patientName": "ngf",
-    "counter": 13,
-    "patientId": 1019,
-    "id": "RO_tlB-"
-  },
-  {
-    "patientName": "ngf",
-    "counter": 13,
-    "patientId": 1020,
-    "id": "RO_t-"
-  }
-]
+{
+  "cardiology": [
+    {
+      "patientName": "fdgvd",
+      "phone": "44",
+      "disease": "fdgfd",
+      "doctor": "Anil",
+      "address": "fdgvd",
+      "gender": "male",
+      "payment": "Payment",
+      "counter": 1,
+      "id": "vpx_iG5"
+    },
+    {
+      "patientName": "ghg",
+      "phone": "66",
+      "disease": "gff",
+      "doctor": "Anil",
+      "address": "ghg",
+      "gender": "male",
+      "payment": "Payment",
+      "counter": 2,
+      "id": "VyTpRqi"
+    }
+  ],
+  "Internalmedicine": [
+    {
+      "patientName": "fdgvd",
+      "phone": "44",
+      "disease": "fdgfd",
+      "doctor": "Anil",
+      "address": "fdgvd",
+      "gender": "male",
+      "payment": "Payment",
+      "counter": 1,
+      "id": "vpx_iG5"
+    },
+    {
+      "patientName": "ghg",
+      "phone": "66",
+      "disease": "gff",
+      "doctor": "Anil",
+      "address": "ghg",
+      "gender": "male",
+      "payment": "Payment",
+      "counter": 2,
+      "id": "VyTpRqi"
+    }
+  ]
+}
