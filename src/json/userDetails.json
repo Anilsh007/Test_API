@@ -12,7 +12,7 @@
         "counter": 5000
     },
     {
-        "userId": "AN20630",
+        "userid": "AN20630",
         "fname": "Anil1",
         "email": "Anil1.sh101@gmail.com",
         "password": "123",
@@ -22,7 +22,7 @@
         "id": "K3U_tWG"
     },
     {
-        "userId": "AN20631",
+        "userid": "AN20631",
         "fname": "Anil2",
         "email": "Anil2.sh101@gmail.com",
         "password": "123",
@@ -32,7 +32,7 @@
         "id": "K3U_tWG"
     },
     {
-        "userId": "AN20632",
+        "userid": "AN20632",
         "fname": "Anil3",
         "email": "Anil3.sh101@gmail.com",
         "password": "123",
