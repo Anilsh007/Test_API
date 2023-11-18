@@ -1,9 +1,45 @@
 [
     {
-        "id": "adminuser",
-        "name": "Nihira",
+        "id": "user1",
+        "fname": "Nihira",
         "password": "admin",
         "email": "nihiratechiees@gmail.com",
+        "phone": "8989898989",
+        "country": "usa",
+        "address": "",
+        "role": "admin",
+        "gender": "female",
+        "counter": 5000
+    },
+    {
+        "id": "user2",
+        "fname": "Nihira",
+        "password": "admin",
+        "email": "2@gmail.com",
+        "phone": "8989898989",
+        "country": "usa",
+        "address": "",
+        "role": "admin",
+        "gender": "female",
+        "counter": 5000
+    },
+    {
+        "id": "user3",
+        "fname": "Nihira",
+        "password": "admin",
+        "email": "3@gmail.com",
+        "phone": "8989898989",
+        "country": "usa",
+        "address": "",
+        "role": "admin",
+        "gender": "female",
+        "counter": 5000
+    },
+    {
+        "id": "user4",
+        "fname": "Nihira",
+        "password": "admin",
+        "email": "4@gmail.com",
         "phone": "8989898989",
         "country": "usa",
         "address": "",
