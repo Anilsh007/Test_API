@@ -1,20 +1,20 @@
 [
   {
-      "userid": "admin",
+      "userId": "admin",
       "password": "admin",
       "role": "admin"
   },
   {
-      "userid": "AN20630",
+      "userId": "AN20630",
       "password": "123",
       "role": "admin"
   },
   {
-      "userid": "AN20631",
+      "userId": "AN20631",
       "password": "123"
   },
   {
-      "userid": "AN20632",
+      "userId": "AN20632",
       "password": "123"
   }
 ]
