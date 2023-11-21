@@ -1,21 +1,20 @@
 [
   {
-    "id": "adminuser",
-    "name": "Nihira",
-    "password": "admin",
-    "email": "nihiratechiees@gmail.com",
-    "phone": "8989898989",
-    "country": "usa",
-    "address": "",
-    "role": "admin",
-    "gender": "female"
+      "userid": "admin",
+      "password": "admin",
+      "role": "admin"
   },
   {
-    "userName": "Anilshah",
-    "fname": "Anil",
-    "password": "123",
-    "phone": "741",
-    "address": "Amlori",
-    "gender": "male"
+      "userid": "AN20630",
+      "password": "123",
+      "role": "admin"
+  },
+  {
+      "userid": "AN20631",
+      "password": "123"
+  },
+  {
+      "userid": "AN20632",
+      "password": "123"
   }
 ]
