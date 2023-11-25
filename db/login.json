@@ -1,0 +1,22 @@
+{
+    "login": [
+        {
+            "id": "admin",
+            "password": "admin",
+            "role": "admin"
+        },
+        {
+            "id": "AN20630",
+            "password": "123",
+            "role": "admin"
+        },
+        {
+            "id": "AN20631",
+            "password": "123"
+        },
+        {
+            "id": "AN20632",
+            "password": "123"
+        }
+    ]
+}
