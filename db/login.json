@@ -17,6 +17,15 @@
         {
             "id": "AN20632",
             "password": "123"
+        },
+        {
+            "id": "AN20068",
+            "fname": "Anil kumar shah",
+            "email": "abc.abc@gmail.com",
+            "password": "123",
+            "phone": "1234567890",
+            "address": "Singrauli",
+            "gender": "male"
         }
     ]
 }
